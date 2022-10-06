@@ -1,5 +1,5 @@
 # Bootstrap Ödev 1
-Patika.dev Bootstap konu ödev1
+Patika.dev Bootstrap konu ödev1
 
 ## Ödev Görseli 1
 ![Ödev Görseli](/img/G1.png)
